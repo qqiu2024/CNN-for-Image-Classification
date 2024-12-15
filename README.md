@@ -116,7 +116,7 @@ cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 cnn.fit(x=training_set, validation_data=test_set, epochs=50)
 ```
 
-<img src="/image/output.png">
+<img src="./image/output.png">
 
 ## Part 4 - Making a single prediction
 
@@ -149,12 +149,12 @@ predict_image('dataset/single_prediction/cat_or_dog_2.jpg')
 
 ```
     
-<img src="/image/1.png">
+<img src="./image/1.png">
     
 <br>  
 
     
-<img src="/image/2.png">
+<img src="./image/2.png">
     
 
 
