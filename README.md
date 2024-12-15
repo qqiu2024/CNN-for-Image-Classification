@@ -1,4 +1,5 @@
-# Convolutional Neural Network
+# Convolutional Neural Network for Image Classification
+
 
 ### Importing the libraries
 
